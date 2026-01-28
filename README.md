@@ -1,4 +1,4 @@
-[নড়িয়াল দারুল হাদীস ইসলামিয়া মাদ্রাসা.html](https://github.com/user-attachments/files/24909333/default.html)
+
 <!DOCTYPE html>
 <html lang="bn">
 <head>
